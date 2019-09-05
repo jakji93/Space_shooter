@@ -1,2 +1,2 @@
 # Space_shooter
-Vertical scroll shooter
+Vertical scroll shooter (alpha)
